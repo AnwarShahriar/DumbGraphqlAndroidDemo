@@ -8,7 +8,7 @@ import me.anwarshahriaraits.androidgraphqldemo.model.Film
 class FilmViewHolder(view: View): RecyclerView.ViewHolder(view), DataBinder<Film> {
 
     override fun bind(data: Film) {
-        itemView.title.text = data.name
+        itemView.title.text = data.title
         itemView.director.text = data.director
     }
 
