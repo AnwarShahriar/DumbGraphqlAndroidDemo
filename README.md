@@ -12,9 +12,11 @@ This is just to explore GraphQL on Android platform
 
 Fetches some movie from using GraphQL and show them in a list
 
+
 **What does it look like?**
 
-this
+![demo](./screenshots/demo.jpg)
+
 
 **What to do next?**
 
