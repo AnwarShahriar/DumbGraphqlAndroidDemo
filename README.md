@@ -26,7 +26,8 @@ Lots of things, like:
 3. Add unit tests
 4. UI enhancement
 5. Using a proper GraphQL client
-6. Add one here :)
+6. Handle configuration changes (orientation et al.)
+7. Add one here :)
 
 **Caution** Do not take this demo as a serious work. 
 I'm just exploring these stuffs, so what you see is the outcome of my learning process.
